@@ -1,6 +1,6 @@
 
 
-## App mobile para consulta  dados dE UM cnpj
+## App mobile para consulta  dados de um cnpj
 
 Criado por
 </br>Felipe Moreira de Castro.
